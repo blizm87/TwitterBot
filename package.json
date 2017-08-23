@@ -1,0 +1,23 @@
+{
+  "name": "TwitterBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blizm87/TwitterBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blizm87/TwitterBot/issues"
+  },
+  "homepage": "https://github.com/blizm87/TwitterBot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
